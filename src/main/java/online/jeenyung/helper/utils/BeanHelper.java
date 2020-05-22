@@ -1,7 +1,5 @@
-package com.seeyon.oversea.utils;
+package online.jeenyung.helper.utils;
 
-import com.seeyon.oversea.db.GenericBean;
-import org.apache.commons.beanutils.BeanUtils;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.*;

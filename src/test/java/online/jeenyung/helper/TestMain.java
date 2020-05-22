@@ -1,7 +1,7 @@
-package com.seeyon.oversea;
+package online.jeenyung.helper;
 
 
-import com.seeyon.oversea.utils.UUIDTool;
+import online.jeenyung.helper.utils.UUIDTool;
 
 public class TestMain
 {

@@ -1,4 +1,4 @@
-package com.seeyon.oversea.utils;
+package online.jeenyung.helper.utils;
 
 import java.util.UUID;
 

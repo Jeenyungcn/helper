@@ -1,4 +1,4 @@
-package com.seeyon.oversea.db;
+package online.jeenyung.helper.db;
 
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.MapListHandler;

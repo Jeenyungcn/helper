@@ -1,6 +1,6 @@
-package com.seeyon.oversea.db;
+package online.jeenyung.helper.db;
 
-import com.seeyon.oversea.utils.BeanHelper;
+import online.jeenyung.helper.utils.BeanHelper;
 
 import java.util.ArrayList;
 import java.util.List;
